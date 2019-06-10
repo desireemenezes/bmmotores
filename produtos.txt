@@ -1,0 +1,145 @@
+            <section>
+                <h2>Motores leves</h2>
+                <p>Até 3.0 litros. Eletrônicos, oferecem excelente performance nas mais diferentes faixas de potência, com elevado
+                    torque e baixo custo de manutenção. </p>
+                <dl>
+                    <dd>
+                        <figure>
+                            <img src="img/motor-1.jpg" alt="Motor 1l" />
+                        </figure>
+                    </dd>
+                    <dt>
+                        <a href="#"> Motor Ragon WZ </a>
+                    </dt>
+                    <dd>
+                        Cabeçotes individuais com 4 válvulas por cilindro
+                    </dd>
+                    <dd>
+                        Uso: veicular
+                    </dd>
+                </dl>
+                <dl class="central">
+                    <dd>
+                        <figure>
+                            <img src="img/motor-2.jpg" alt="Motor 2l" />
+                        </figure>
+                    </dd>
+                    <dt>
+                        <a href="#"> Modelo Ragon TY </a>
+                    </dt>
+                    <dd>
+                        Cabeçotes individuais com 3 válvulas por cilindro
+                    </dd>
+                    <dd>
+                        Uso: veicular
+                    </dd>
+                </dl>
+                <dl>
+                    <dd>
+                        <figure>
+                            <img src="img/motor-3.jpg" alt="Motor 3l" />
+                        </figure>
+                    </dd>
+                    <dt>
+                        <a href="#"> Modelo Delta </a>
+                    </dt>
+                    <dd>
+                        Cabeçotes individuais com 6 válvulas por cilindro
+                    </dd>
+                    <dd>
+                        Uso: veicular, marítimo
+                    </dd>
+                </dl>
+            </section>
+            <div class="clear"></div>
+            <section>
+                <h2>Motores Médios</h2>
+                <p>Até 6.0 litros. Performance, confiabilidade e durabilidade, com eficiência no consumo de combustível e baixo
+                    custo de manutenção.</p>
+                <dl>
+                    <dd>
+                        <figure>
+                            <img src="img/motor-1.jpg" alt="Motor 1l" />
+                        </figure>
+                    </dd>
+                    <dt>
+                        <a href="#"> Modelo Dyna </a>
+                    </dt>
+                    <dd>
+                        Cabeçotes individuais com 4 válvulas por cilindro
+                    </dd>
+                    <dd>
+                        Uso: agrícola
+                    </dd>
+                </dl>
+                <dl class="central">
+                    <dd>
+                        <figure>
+                            <img src="img/motor-2.jpg" alt="Motor 2l" />
+                        </figure>
+                    </dd>
+                    <dt>
+                        <a href="#"> Modelo Tork GU </a>
+                    </dt>
+                    <dd>
+                        Cabeçotes individuais com 4 válvulas por cilindro
+                    </dd>
+                    <dd>
+                        Uso: agrícola, industrial
+                    </dd>
+                </dl>
+                <dl>
+                    <dd>
+                        <figure>
+                            <img src="img/motor-3.jpg" alt="Motor 3l" />
+                        </figure>
+                    </dd>
+                    <dt>
+                        <a href="#"> Modelo Tork JA </a>
+                    </dt>
+                    <dd>
+                        Cabeçotes individuais com 4 válvulas por cilindro
+                    </dd>
+                    <dd>
+                        Uso: industrial
+                    </dd>
+                </dl>
+            </section>
+            <div class="clear"></div>
+            <section>
+                <h2>Motores Grandes</h2>
+                <p>Até 9.0 litros. Performance, confiabilidade e durabilidade, com eficiência no consumo de combustível e baixo
+                    custo de manutenção.</p>
+                <dl>
+                    <dd>
+                        <figure>
+                            <img src="img/motor-1.jpg" alt="Motor 1l" />
+                        </figure>
+                    </dd>
+                    <dt>
+                        <a href="#"> Modelo Combo Alfa </a>
+                    </dt>
+                    <dd>
+                        Cabeçotes individuais com 4 válvulas por cilindro
+                    </dd>
+                    <dd>
+                        Uso: marítimo
+                    </dd>
+                </dl>
+                <dl class="central">
+                    <dd>
+                        <figure>
+                            <img src="img/motor-2.jpg" alt="Motor 2l" />
+                        </figure>
+                    </dd>
+                    <dt>
+                        <a href="#"> Modelo Combo Beta </a>
+                    </dt>
+                    <dd>
+                        Cabeçotes individuais com 4 válvulas por cilindro
+                    </dd>
+                    <dd>
+                        Uso: marítimo
+                    </dd>
+                </dl>
+            </section>
